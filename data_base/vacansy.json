@@ -1,0 +1,36 @@
+[
+  {
+    "user_id":1264787834,
+    "Idora":"Microsoft",
+    "Ishberuvchi":"Bill Gates",
+    "Aloqa":"+998999410521",
+    "technologies": [
+        "VueJs",
+        "Bootsrap"
+    ],
+    "haqi":"5000$",
+    "Hudud":"USA Silicon Valley"
+  },
+  {
+    "user_id":1264787834,
+    "Idora":"FaceBook",
+    "Ish beruvchi":"Mark Suckerberg",
+    "Aloqa":"+998999410521",
+    "technologies": [
+        "Bootsrap"
+    ],
+    "haqi":"5000$",
+    "Hudud":"USA Silicon Valley"
+  },
+  {
+    "user_id":1264787834,
+    "Idora":"Google",
+    "Ish beruvchi":"Larry Peyj",
+    "Aloqa":"+998999410521",
+    "technologies": [
+         "GO"
+    ],
+    "haqi":"5000$",
+    "Hudud":"USA Silicon Valley"
+  }
+]

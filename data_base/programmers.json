@@ -1,0 +1,22 @@
+[
+    {
+        "user_id": 2023671991,
+        "Names": "Fuck you",
+        "Sohasi": "Backend",
+        "technologies": [
+            "Bootsrap"
+        ],
+        "phone_number": "+998938460418"
+    },
+    {
+        "user_id": 964158596,
+        "Names": "Davlatov Muhammadumar",
+        "Sohasi": "FullStack",
+        "technologies": [
+            "ReactJs",
+            "Python DJango",
+            "GO"
+        ],
+        "phone_number": "+998913848508"
+    }
+]

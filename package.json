@@ -1,0 +1,22 @@
+{
+  "name": "bot3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.6",
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.1",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
